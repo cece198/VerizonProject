@@ -1,0 +1,41 @@
+.w3-btn{width:650px; 
+height:100px; background-color: red;
+font-size:10px; 
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 600px;
+    height:80px;
+}
+
+.button1 {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 4px;
+    cursor: pointer;
+    width: 150px;
+    height:50px;
+}
+
+.button5 {
+    background-color:red;
+    color: white;
+    border: 2px solid #;
+    border-radius: 8px 
+}
